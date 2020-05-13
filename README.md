@@ -1,11 +1,6 @@
 # Company Page 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Simple company landing page made with React
-You can have a demo: [Company Page](zeta-2f171.firebaseapp.com/)
-<h1 align="center">
-<img src='https://i.imgur.com/6ID0I6P.jpg'   alt="Iury Melo" title="companypage" height='300' />
- </h1>
 
 ## Technologies :rocket: :
 
